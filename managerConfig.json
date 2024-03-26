@@ -1,0 +1,6 @@
+{
+    "githubRepo": "",
+    "githubBranch": "",
+    "projectStart": "npm run start",
+    "projectConfig": "./config.json"
+}
